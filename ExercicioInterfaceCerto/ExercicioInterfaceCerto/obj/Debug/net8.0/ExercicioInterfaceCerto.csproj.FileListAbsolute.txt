@@ -1,0 +1,14 @@
+C:\Users\aluno.cad\Desktop\carlos\ExercicioInterfaceCerto\ExercicioInterfaceCerto\obj\Debug\net8.0\ExercicioInterfaceCerto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.cad\Desktop\carlos\ExercicioInterfaceCerto\ExercicioInterfaceCerto\obj\Debug\net8.0\ExercicioInterfaceCerto.AssemblyInfoInputs.cache
+C:\Users\aluno.cad\Desktop\carlos\ExercicioInterfaceCerto\ExercicioInterfaceCerto\obj\Debug\net8.0\ExercicioInterfaceCerto.AssemblyInfo.cs
+C:\Users\aluno.cad\Desktop\carlos\ExercicioInterfaceCerto\ExercicioInterfaceCerto\obj\Debug\net8.0\ExercicioInterfaceCerto.csproj.CoreCompileInputs.cache
+C:\Users\aluno.cad\Desktop\carlos\ExercicioInterfaceCerto\ExercicioInterfaceCerto\bin\Debug\net8.0\ExercicioInterfaceCerto.exe
+C:\Users\aluno.cad\Desktop\carlos\ExercicioInterfaceCerto\ExercicioInterfaceCerto\bin\Debug\net8.0\ExercicioInterfaceCerto.deps.json
+C:\Users\aluno.cad\Desktop\carlos\ExercicioInterfaceCerto\ExercicioInterfaceCerto\bin\Debug\net8.0\ExercicioInterfaceCerto.runtimeconfig.json
+C:\Users\aluno.cad\Desktop\carlos\ExercicioInterfaceCerto\ExercicioInterfaceCerto\bin\Debug\net8.0\ExercicioInterfaceCerto.dll
+C:\Users\aluno.cad\Desktop\carlos\ExercicioInterfaceCerto\ExercicioInterfaceCerto\bin\Debug\net8.0\ExercicioInterfaceCerto.pdb
+C:\Users\aluno.cad\Desktop\carlos\ExercicioInterfaceCerto\ExercicioInterfaceCerto\obj\Debug\net8.0\ExercicioInterfaceCerto.dll
+C:\Users\aluno.cad\Desktop\carlos\ExercicioInterfaceCerto\ExercicioInterfaceCerto\obj\Debug\net8.0\refint\ExercicioInterfaceCerto.dll
+C:\Users\aluno.cad\Desktop\carlos\ExercicioInterfaceCerto\ExercicioInterfaceCerto\obj\Debug\net8.0\ExercicioInterfaceCerto.pdb
+C:\Users\aluno.cad\Desktop\carlos\ExercicioInterfaceCerto\ExercicioInterfaceCerto\obj\Debug\net8.0\ExercicioInterfaceCerto.genruntimeconfig.cache
+C:\Users\aluno.cad\Desktop\carlos\ExercicioInterfaceCerto\ExercicioInterfaceCerto\obj\Debug\net8.0\ref\ExercicioInterfaceCerto.dll
